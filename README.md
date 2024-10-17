@@ -8,10 +8,12 @@ This project implements a basic text analysis tool to preprocess articles and an
 
 ## Milestone 1: Preprocessing Text Files
 ### Features:
-**Stop Words Removal**: Removes common words like "and", "but", etc.
-**Basic Statistics**: Calculates the number of words and sentences.
-**Word Frequency Ranking**: Ranks words based on how often they appear in the text.
+
+**Stop Words Removal**: Removes common words like "and", "but", etc.<br>
+**Basic Statistics**: Calculates the number of words and sentences.<br>
+**Word Frequency Ranking**: Ranks words based on how often they appear in the text.<br>
 #Setup:
+
 **Articles**: Store articles on the same topic in a folder as .txt files.
 **Stop Words**: Use a stopwords.txt file with a list of words to ignore during processing. Example list.
 #Usage:
