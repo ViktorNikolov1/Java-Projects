@@ -1,4 +1,4 @@
-### Basic Text Analysis Application
+# Basic Text Analysis Application
 ## Project Overview
 This project implements a basic text analysis tool to preprocess articles and analyze word frequencies. The application processes text files on a specific topic, removes stop words, calculates basic statistics, and ranks words by frequency.
 
@@ -7,7 +7,7 @@ This project implements a basic text analysis tool to preprocess articles and an
 - In collaboration with Billy and Chris Smith.
 
 ## Milestone 1: Preprocessing Text Files
-# Features:
+### Features:
 **Stop Words Removal**: Removes common words like "and", "but", etc.
 **Basic Statistics**: Calculates the number of words and sentences.
 **Word Frequency Ranking**: Ranks words based on how often they appear in the text.
