@@ -12,10 +12,12 @@ This project implements a basic text analysis tool to preprocess articles and an
 **Stop Words Removal**: Removes common words like "and", "but", etc.<br>
 **Basic Statistics**: Calculates the number of words and sentences.<br>
 **Word Frequency Ranking**: Ranks words based on how often they appear in the text.<br>
-#Setup:
 
-**Articles**: Store articles on the same topic in a folder as .txt files.
-**Stop Words**: Use a stopwords.txt file with a list of words to ignore during processing. Example list.
-#Usage:
-**Run Main.java**: It will prompt you to choose a file from a directory.
+# Setup:
+
+**Articles**: Store articles on the same topic in a folder as .txt files.<br>
+**Stop Words**: Use a stopwords.txt file with a list of words to ignore during processing. Example list.<br>
+
+# Usage:
+**Run Main.java**: It will prompt you to choose a file from a directory.<br>
 **Preprocessing**: The selected file will be processed, displaying statistics and word rankings.
